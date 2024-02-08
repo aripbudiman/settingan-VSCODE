@@ -1,3 +1,4 @@
+```json
 {
     "workbench.iconTheme": "material-icon-theme",
     "workbench.colorTheme": "Mayukai Mono",
@@ -99,3 +100,4 @@
     "CodeGPT.apiKey": "CodeGPT Plus Beta",
     "codeium.enableCodeLens": false
 }
+```
