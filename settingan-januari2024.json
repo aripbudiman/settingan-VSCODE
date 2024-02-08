@@ -15,7 +15,6 @@
     "editor.minimap.enabled": false,
     "editor.fontFamily": "Dank Mono",
     "editor.tabSize": 2,
-    "editor.cursorStyle": "block",
     "editor.fontWeight": "355",
     "editor.fontLigatures": true,
     "emmet.includeLanguages": {
@@ -43,5 +42,5 @@
     "liveServer.settings.donotVerifyTags": true,
     "CodeGPT.apiKey": "CodeGPT Plus Beta",
     "codeium.enableCodeLens": false,
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
 }
